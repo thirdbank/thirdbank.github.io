@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Oct 2020 19:26:37 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我为什么要搭建这个博客</title>
+      <link>http://example.org/posts/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%90%AD%E5%BB%BA%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Fri, 09 Oct 2020 19:26:37 +0800</pubDate>
+      
+      <guid>http://example.org/posts/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%90%AD%E5%BB%BA%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>当我决定以此作为我的第一篇博文后，我想了一整天该如何去写，写了一点随后又删掉，反反复复，一时竟不知该如何下笔。并不是说我不知道自己为什么要搭建这个博客，相反，对于这件事我有太多的想法，只是这些想法就像耳机线一样在脑子里乱成一团，让我不知道该如何表达出来。我也不是没有去尝试梳理和概括，可是到了最后，这件事对我来说感觉就像变成了做一道政治论述题，或者是写一篇命题作文，我讨厌这样的感觉。到了后来，我开始萌生了放弃的念头，为此付出了这么多的时间和精力，还如此地刁难自己是否真的有意义？难道写博客这件事就要像我做的其他无数件事一样，还没开始就要结束吗？我尝试着给这个问题一个否定的答案，并且将我当下的想法记录了下来，虽然有些偏题，但当我写到这里的时候才发现自己已经写了这么多了。
+当我开始重新审视自己上面所写的东西后，我突然发现这不正是我为什么要搭建这个博客的原因吗？我已经太久太久没有自己输出什么东西了，伴随着移动互联网时代的兴起，我每天都在做着大量的输入，各种各样纷繁复杂的信息像洪流一样涌入我的脑海，包括每天的学习也只是在尽力地吸收着别人已经嚼烂的知识，试图将其转换为自己的营养。可是这样真的好吗？当大量的东西学完就忘，当自己的想法难以用语言来表达，那时的自己是否会后悔学过的东西没有及时去记录总结和实践，一些想法和观点没有及时去描述提炼和升华？
+**反思和沉淀。**当第二天再来修改这篇文章的结尾部分时，我突然又想到了这两个词，恍然大悟。这两个词本来是我在家呆了一年半的时间里所想出来的，打算在我的研究生阶段所要去践行的事，没想到在这里竟不谋而合。至此，我想这可能就是我为什么要搭建这个博客的全部原因了。</description>
+    </item>
+    
+  </channel>
+</rss>
